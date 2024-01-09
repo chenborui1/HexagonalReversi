@@ -813,7 +813,7 @@ use the command: java -jar assignment8.jar "humanplayer" "providerstrategy1"
 If you decide to put my own human player implementation for my provider's view 
 You must select a cell on his view and press the enter to make a move. Press the key 'p' to pass.
 
-change for the last homework(extra credit)
+change for part 4
 New interface:
 ICoordinate which is implemented by SquareCoordinate and Coordinate(for hexagon)
 New classes implemented and created:
