@@ -1,4 +1,0 @@
-# HexagonalReversi
-# HexagonalReversi
-# HexagonalReversi
-# HexagonalReversi
