@@ -1,7 +1,7 @@
 Strategy transcript for Strategy 1
 
 
-ASSIGNMENT PART 4:
+
 
 Made a mock controller for testing. Look at controller tests or mock controller to
 See how the controller was tested for handling moves passes, notifying game states etc.
