@@ -44,6 +44,7 @@ public class ReversiControllerTest {
     args[1] = "humanplayer";
 
 
+
     String blackPlayer = args[0];
     String whitePlayer = args[1];
 
